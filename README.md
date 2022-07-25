@@ -15,4 +15,4 @@ My [16 personalities](https://www.16personalities.com/) result is ISTP-A.  Which
 
 ---
 
-[manualof.me](https://www.manualof.me/s/matthew)
+[manualof.me](https://www.manualof.me/)
