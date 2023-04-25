@@ -16,3 +16,14 @@ My [16 personalities](https://www.16personalities.com/) result is ISTP-A.  Which
 ---
 
 [manualof.me](https://www.manualof.me/)
+
+---
+
+<details><summary><h3>Stats</h3></summary>
+
+![Python](https://img.shields.io/badge/-FFD43B?logo=python)
+![R](https://img.shields.io/badge/-white?logo=R&logoColor=blue)
+![Git](https://img.shields.io/badge/-E44C30?logo=git&logoColor=white)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aw-west-defra)](https://github.com/anuraghazra/github-readme-stats)
+</details>
